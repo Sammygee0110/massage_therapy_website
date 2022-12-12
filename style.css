@@ -424,7 +424,7 @@ header{
     }
 }
 
-@media(max-width: 405px){
+@media(max-width: 540px){
     :root{
         --big-font: 1.3rem;
         --h2-font: 1.2rem;
